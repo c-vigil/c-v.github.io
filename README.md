@@ -1,7 +1,3 @@
-theme: jekyll-theme-minimal
-title: CV's homepage
-description: CV
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
